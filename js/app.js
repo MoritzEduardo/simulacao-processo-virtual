@@ -10,7 +10,6 @@ const movements = [
   {id:"3.0", index:"Mov. 3.0", title:"Manifestação Ministerial", filename:"MANIFESTAÇÃO MINISTERIAL (mov. 3).pdf", signer:"Mayara"},
   {id:"4.0", index:"Mov. 4.0", title:"Decisão", filename:"DECISÃO TUTELA URGÊNCIA (mov. 4).pdf", signer:"Eduardo"},
   {id:"5.0", index:"Mov. 5.0", title:"Intimação", filename:"TERMO DE CITAÇÃO (mov. 5).pdf", signer:"Joberson da Silva"},
-  {id:"6.0", index:"Mov. 6.0", title:"Contestação", filename:"CONTESTAÇÃO (mov. 6).pdf", signer:"Yago"}
 ];
 const el = id => document.getElementById(id);
 let selectedMovement = movements[0];
